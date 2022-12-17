@@ -7,7 +7,7 @@
 <th>Name</th>
 <th>URL</th></tr>
 <tr>
-<td>01.</td>
+<td>1.</td>
 <td>Photo Gallery</td>
 <td><a href=""></a></td>
 </tr>
