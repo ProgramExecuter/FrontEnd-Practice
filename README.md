@@ -1,6 +1,6 @@
 <h2>Hi👋</h2>
 
-<h4>This is a repository for my **Front-End** practice</h4>
+<h4>This is a repository for my <b>Front-End</b> practice</h4>
 
 <table>
 <tr><th></th>
