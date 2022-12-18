@@ -27,16 +27,12 @@ body {
 #photo-grid > img {
   width: 100%;
   border-radius: 0.5rem;
+  filter: grayscale(100%) brightness(50%);
   transition: 1s;
 }
 
 #photo-grid > img:hover {
-  width: 90%;
-  height: 90%;
-  margin: auto;
-  align-content: center;
-  /* padding: 1rem; */
-  /* border: 1rem solid #e6e6fa; */
+  filter: grayscale(0%) brightness(100%)
 }
 
 @media screen and (max-width: 2000px) and (min-width: 1201px) {
